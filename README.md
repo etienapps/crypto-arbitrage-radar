@@ -1,5 +1,5 @@
 # Crypto Arbitrage Radar
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Crypto Arbitrage Radar is an advanced Android app that monitors real-time arbitrage opportunities between major cryptocurrency exchanges.
 
 ## Features
